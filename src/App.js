@@ -4,6 +4,7 @@ import Home from './Home';
 import Movie from './Movie';
 
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const NotFound = () => {
   return <h2>404 Not Found</h2>;
